@@ -13,7 +13,7 @@ Ce kit est composé en deux parties distinctes:
 
 # Plan de montage
 
-![Raccordement sur Breadbard](KIT-SOUDURE-ARDBASE_breadboard_bb)
+![Raccordement sur Breadbard](KIT-SOUDURE-ARDBASE_breadboard_bb.jpg)
 
 ![La carte Perma-Proto](KIT-SOUDURE-ARDBASE (perma-proto, labelled)_bb.JPG)
 
