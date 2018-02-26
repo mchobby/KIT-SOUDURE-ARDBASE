@@ -17,7 +17,7 @@ Ce kit est composé en deux parties distinctes:
 
 ![La carte KIT SOUDURE ARDBASE en détail](KIT-SOUDURE-ARDBASE_perma-proto_labelled_bb.jpg)
 
-![Raccordement KIT SOUDURE ARDBASE sur Arduino](KIT-SOUDURE-ARDBASE (KIT-SOUDURE-ARDBASE_perma-proto-wiring-arduino_bb.jpg)
+![Raccordement KIT SOUDURE ARDBASE sur Arduino](KIT-SOUDURE-ARDBASE_perma-proto-wiring-arduino_bb.jpg)
 
 # Ressources
 
