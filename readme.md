@@ -20,7 +20,8 @@ Les __instructions d'assemblage__ sont [disponibles sur le Wiki de MCHobby](http
 Une fois assemblé, vous pouvez utiliser le kit ArdBase avec:
 * [ArdBase avec Arduino](readme-arduino.md)
 * [ArdBase avec Pico sous MicroPython](readme-pico.md)
-* ArdBase avec PYBStick-RP2040 sous MicroPython
+* [ArdBase avec PYBStick-RP2040 sous MicroPython](readme-pico.md) identique au Pico
+* [ArdBase avec Pyboard](readme-pyboard.md)
 
 
 # ArdBase DIY

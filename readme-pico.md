@@ -47,6 +47,12 @@ Voici les raccordement à réaliser:
 
 # Exemples
 
+Pour pouvoir tester les scripts sur votre plateforme MicroPython RP2040, vous pouvez utiliser ThonnyIDE.
+
+![Thonny IDE avec Raspberry-Pico ou PYBStick-RP2040](docs/_static/thonny-ide.jpg)
+
+Voyez les détails de cet [article sur le blog de MCHobby](https://arduino103.blogspot.com/2022/01/micromod-rp2040-pico-utiliser-thonny.html) pour installer et utiliser Thonny avec une plateforme RP2040.
+
 __Exemples d'introduction__:
 
 * [i01_button.py](pico-micropython/i01_button.py): détection de la pression sur un bouton (logique inversée).
