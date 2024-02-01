@@ -20,9 +20,9 @@ import time
 # 6 = LED Rouge/Red
 # 7 = LED Orange
 # 8 = LED Green
-red_pin = Pin( 6, Pin.OUT )
-red_pwm = PWM( red_pin )
-# red_pwm.freq( 200 ) # default PWM freq = 500 Hz
+led_pin = Pin( 6, Pin.OUT )
+led_pwm = PWM( led_pin )
+led_pwm.freq( 200 ) 
 
 while True:
 	# ligthing up
